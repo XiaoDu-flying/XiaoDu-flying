@@ -15,3 +15,5 @@
 </picture>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=XiaoDu-flying&left_color=green&right_color=red)
