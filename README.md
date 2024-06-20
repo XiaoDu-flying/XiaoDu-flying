@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFF86400&random=false&width=435&lines=I+am+a+stdent.;I+am+a+sports+and+music+lover.;I+am+trying+to+make+changes+to+the+world.;I+am+what+I+am)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFF86400&random=false&width=635&lines=I+am+a+stdent.;I+am+a+sports+and+music+lover.;I+am+trying+to+make+changes+to+the+world.;I+am+what+I+am.)](https://git.io/typing-svg)
 
 - 🙋My name is Zhuoyun Du (杜卓耘). I am a first-year graduate student from National Key Laboratory of CAD&CG, [Zhejiang University](https://www.zju.edu.cn/).
 - 🔍My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
