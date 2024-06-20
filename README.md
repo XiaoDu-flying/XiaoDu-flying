@@ -5,3 +5,6 @@
 - ✉️Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoDu-flying)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoDu-flying)
+
