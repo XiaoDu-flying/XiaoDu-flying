@@ -7,3 +7,9 @@
 - ✉️Feel free to reach me: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoDu-flying)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XiaoDu-flying/XiaoDu-flying/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XiaoDu-flying/XiaoDu-flying/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XiaoDu-flying/XiaoDu-flying/output/github-contribution-grid-snake.svg">
+</picture>
