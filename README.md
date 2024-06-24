@@ -6,6 +6,8 @@
 - 🎠I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4).
 - ✉️Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
+![](https://komarev.com/ghpvc/?username=XiaoDu-flying)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoDu-flying)
 
 <picture>
