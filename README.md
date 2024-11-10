@@ -7,6 +7,7 @@
 - ✉️Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
 
 ![](https://komarev.com/ghpvc/?username=XiaoDu-flying)
+![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying?color=green)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XiaoDu-flying)
 
