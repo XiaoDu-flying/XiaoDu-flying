@@ -5,7 +5,7 @@
 - 📖 During my senior year of undergraduate studies, I served as a Research Assistant at THUNLP, [Tsinghua University](https://www.tsinghua.edu.cn).
 - 🎠 I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4).
 - ✉️ Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
-- 🫡 ***I am seeking Ph.D. opportunities for Fall 2027*** and welcome aligned research internships and collaborations.
+- 🫡 <u><span style="color:red"><b>I am seeking Ph.D. opportunities for Fall 2027</b></span></u> and welcome aligned research internships and collaborations.
 
 ![](https://komarev.com/ghpvc/?username=XiaoDu-flying)
 ![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying?color=green)
