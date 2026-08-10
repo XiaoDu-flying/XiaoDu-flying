@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFF86400&random=false&width=635&lines=I+am+a+stdent.;I+am+a+sports+and+music+lover.;I+am+trying+to+make+changes+to+the+world.;I+am+what+I+am.)](https://git.io/typing-svg)
 
-- 🙋My name is Zhuoyun Du (杜卓耘). I am a second-year graduate student from National Key Laboratory of CAD&CG, [Zhejiang University](https://www.zju.edu.cn/).
-- 🔍My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
-- 📖During my senior year of undergraduate studies, I served as a Research Assistant at THUNLP, [Tsinghua University](https://www.tsinghua.edu.cn).
-- 🎠I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4).
-- ✉️Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
+- 🙋 My name is Zhuoyun Du (杜卓耘). I am a second-year graduate student from National Key Laboratory of CAD&CG, [Zhejiang University](https://www.zju.edu.cn/).
+- 🔍 My research interests encompass Artificial Intelligence, Natural Language Processing, Large Language Models, and Multi-agent Systems.
+- 📖 During my senior year of undergraduate studies, I served as a Research Assistant at THUNLP, [Tsinghua University](https://www.tsinghua.edu.cn).
+- 🎠 I have a passion for sharing blogs on my [blog site](https://xiaodu-flying.notion.site/Welcome-to-my-blog-1d6df6af187d4b3ea1020fcc73aeec43?pvs=4).
+- ✉️ Feel free to reach me at: [xiaodu.flying@gmail.com](xiaodu.flying@gmail.com).
+- 🫡 ***I am seeking Ph.D. opportunities for Fall 2027*** and welcome aligned research internships and collaborations.
 
 ![](https://komarev.com/ghpvc/?username=XiaoDu-flying)
 ![](https://img.shields.io/github/last-commit/XiaoDu-flying/XiaoDu-flying?color=green)
